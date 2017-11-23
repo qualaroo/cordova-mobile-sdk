@@ -15,7 +15,7 @@
         <param name="android-package" value="com.qualaroo.cordova.QualarooPlugin"/>
       </feature>
     </config-file>
-`   <framework src="com.qualaroo:qualaroo-sdk:1.4.2" />
+    <framework src="src/android/plugin.gradle" custom="true" type="gradleReference"/>
     <source-file src="src/android/QualarooPlugin.java" target-dir="src/com/qualaroo/cordova/"/>
   </platform>
   <platform name="ios">
