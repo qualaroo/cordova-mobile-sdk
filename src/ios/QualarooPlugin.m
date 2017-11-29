@@ -16,7 +16,7 @@
 }
 - (void)showSurvey:(CDVInvokedUrlCommand *)command {
   NSString *alias = [command.arguments objectAtIndex:0];
-  [Qualaroo.shared showSurveyWith:alias on:nil];
+  [Qualaroo.shared showSurveyWith:alias on:viewController];
 }
 
 - (void)removeUserProperty:(CDVInvokedUrlCommand *)command {
