@@ -26,6 +26,6 @@
     </config-file>
     <header-file src="src/ios/QualarooPlugin.h" />
     <source-file src="src/ios/QualarooPlugin.m" />
-    <framework src="src/ios/framework/Qualaroo.framework" custom="true"/>
+    <framework src="Qualaroo" type="podspec" spec="~> 1.4.3" />
   </platform>
 </plugin>
