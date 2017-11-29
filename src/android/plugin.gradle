@@ -1,0 +1,8 @@
+repositories {
+    maven {
+        url 'https://s3.amazonaws.com/qualaroo-android-sdk/libs'
+    }
+}
+dependencies {
+    compile 'com.qualaroo:qualaroo-sdk:1.4.2'
+}
