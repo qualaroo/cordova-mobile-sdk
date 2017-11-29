@@ -19,10 +19,12 @@ In order to integrate the Qualaroo SDK into a 3rd-party app, the app must satisf
 ## Usage
 #### Initialize the Client
 In order to be able to use Qualaroo SDK you need to to initialize it first.
+
 `QualarooSdk.init("<your_api_key_here">
 `
 #### Display survey with a given alias.
 The survey will be displayed if all conditions configured in your dashboard are met.
+
 `QualarooSdk.showSurvey("survey_alias")`
 
 #### Set user properties
