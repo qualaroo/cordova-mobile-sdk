@@ -1,0 +1,24 @@
+{
+  "name": "com.qualaroo.cordova",
+  "version": "1.4.0",
+  "description": "Cordova plugin for Qualaroo SDK",
+  "main": "www/qualaroo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qualaroo/cordova-mobile-sdk.git"
+  },
+  "keywords": [
+    "qualaroo",
+    "android",
+    "iOS"
+  ],
+  "author": "Qualaroo",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/qualaroo/cordova-mobile-sdk/issues"
+  },
+  "homepage": "https://github.com/qualaroo/cordova-mobile-sdk#readme"
+}
