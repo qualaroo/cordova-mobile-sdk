@@ -1,6 +1,6 @@
 {
   "name": "com.qualaroo.cordova",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "description": "Cordova plugin for Qualaroo SDK",
   "main": "www/qualaroo.js",
   "scripts": {
@@ -11,6 +11,9 @@
     "url": "git+https://github.com/qualaroo/cordova-mobile-sdk.git"
   },
   "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",  
     "qualaroo",
     "android",
     "iOS"
