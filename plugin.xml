@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
         id="com.qualaroo.cordova"
-        version="1.8.2">
+        version="1.8.3">
   <name>cordova-qualaroo-sdk</name>
   <engines>
     <engine name="cordova" version=">=3.4.0"/>
