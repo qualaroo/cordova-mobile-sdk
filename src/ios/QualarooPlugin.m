@@ -6,7 +6,7 @@
 //
 
 #import "QualarooPlugin.h"
-#import <Qualaroo/Qualaroo.h>
+@import Qualaroo;
 
 @implementation QualarooPlugin
 
