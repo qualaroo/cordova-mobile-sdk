@@ -1,7 +1,5 @@
 package com.qualaroo.cordova;
 
-import android.support.annotation.Nullable;
-
 import com.qualaroo.Qualaroo;
 
 import org.apache.cordova.CallbackContext;
@@ -24,7 +22,7 @@ public class QualarooPlugin extends CordovaPlugin {
             this.actionName = actionName;
         }
 
-        @Nullable static Action fromName(String name) {
+        static Action fromName(String name) {
             for (Action action : values()) {
                 if (action.actionName.equals(name)) {
                     return action;

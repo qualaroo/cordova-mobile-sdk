@@ -9,6 +9,7 @@ In order to integrate the Qualaroo SDK into a 3rd-party app, the app must satisf
 
 ### Android
 - Minimum deployment target set to Android 4.0.3 or later
+- compileSdkVersion set to 31 or later
 
 ### iOS
 - make sure Always Embed Swift Standard Libraries in your Build Options is set to true

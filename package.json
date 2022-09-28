@@ -1,6 +1,6 @@
 {
   "name": "com.qualaroo.cordova",
-  "version": "1.10.2",
+  "version": "2.0.0",
   "description": "Cordova plugin for Qualaroo SDK",
   "main": "www/qualaroo.js",
   "scripts": {
