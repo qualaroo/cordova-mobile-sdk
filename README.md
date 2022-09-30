@@ -20,11 +20,11 @@ ionic cordova plugin add https://github.com/qualaroo/cordova-mobile-sdk
 npm install ionic-cordova-qualaroo
 ```
 
-`npm install @awesome-cordova-plugins/core` (If not install)
+`npm install @awesome-cordova-plugins/core` (If not already installed)
 
 ## Usage
 #### Initialize the Client
-In order to be able to use Qualaroo SDK you need to to initialize it first.
+In order to be able to use Qualaroo SDK you need to initialize it first.
 
 ```
 import { IonicCordovaQualaroo } from 'node_modules/ionic-cordova-qualaroo/ngx'
