@@ -22,6 +22,12 @@ npm install ionic-cordova-qualaroo
 
 `npm install @awesome-cordova-plugins/core` (If not already installed)
 
+```
+For ios
+Navigate to platform/ios folder
+pod install
+```
+
 ## Usage
 #### Initialize the Client
 In order to be able to use Qualaroo SDK you need to initialize it first.
